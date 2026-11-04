@@ -59,7 +59,7 @@
     "react-native-safe-area-context": "5.7.0"
   },
   "devDependencies": {
-    "@babel/core": "7.29.0",
+    "@babel/core": "8.1.0",
     "@babel/preset-env": "7.29.0",
     "@babel/preset-react": "7.28.5",
     "@babel/runtime": "7.28.6",
@@ -134,7 +134,7 @@
     "ts-node": "10.9.2",
     "typescript": "6.0.2",
     "webpack-cli": "5.0.2",
-    "webpack-dev-server": "4.13.3"
+    "webpack-dev-server": "5.2.6"
   },
   "husky": {
     "hooks": {
